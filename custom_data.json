@@ -1,0 +1,103 @@
+[
+    {
+      "name": "1984",
+      "description": "A dystopian novel by George Orwell.",
+      "specifications": {
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian"
+      },
+      "tags": ["classic", "totalitarianism", "Big Brother"]
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "description": "A novel about racism and injustice in the Deep South.",
+      "specifications": {
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Historical Fiction"
+      },
+      "tags": ["classic", "racism", "courtroom"]
+    },
+    {
+      "name": "Pride and Prejudice",
+      "description": "A romantic novel that explores manners and marriage.",
+      "specifications": {
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "Romance"
+      },
+      "tags": ["classic", "romance", "British literature"]
+    },
+    {
+      "name": "The Great Gatsby",
+      "description": "A portrayal of the American Dream in the 1920s.",
+      "specifications": {
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "Tragedy"
+      },
+      "tags": ["classic", "1920s", "American Dream"]
+    },
+    {
+      "name": "Moby-Dick",
+      "description": "A sailor’s narrative of the obsessive quest of Ahab.",
+      "specifications": {
+        "author": "Herman Melville",
+        "year": 1851,
+        "genre": "Adventure"
+      },
+      "tags": ["classic", "whaling", "obsession"]
+    },
+    {
+      "name": "Brave New World",
+      "description": "A futuristic society based on engineered happiness.",
+      "specifications": {
+        "author": "Aldous Huxley",
+        "year": 1932,
+        "genre": "Science Fiction"
+      },
+      "tags": ["dystopia", "technology", "utopia"]
+    },
+    {
+      "name": "The Catcher in the Rye",
+      "description": "A story of teenage rebellion and alienation.",
+      "specifications": {
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "genre": "Fiction"
+      },
+      "tags": ["teen", "alienation", "classic"]
+    },
+    {
+      "name": "The Hobbit",
+      "description": "Bilbo Baggins' adventure in Middle-earth.",
+      "specifications": {
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "genre": "Fantasy"
+      },
+      "tags": ["fantasy", "adventure", "dragons"]
+    },
+    {
+      "name": "Fahrenheit 451",
+      "description": "A society where books are outlawed and burned.",
+      "specifications": {
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "genre": "Dystopian"
+      },
+      "tags": ["censorship", "firemen", "dystopia"]
+    },
+    {
+      "name": "Jane Eyre",
+      "description": "A woman's journey to independence and love.",
+      "specifications": {
+        "author": "Charlotte Brontë",
+        "year": 1847,
+        "genre": "Romantic Fiction"
+      },
+      "tags": ["orphan", "romance", "gothic"]
+    }
+  ]
+  
