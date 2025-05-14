@@ -18,7 +18,7 @@ def fetch_books_data(url):
             found = False
             for book in data:
                 if book['name'].strip().lower() == user_input:
-                    print("\n📘 Here are informations about your next book :")
+                    print("\n Here are informations about your next book :")
                     print(f"Title: {book['name']}")
                     print(f"Description: {book['description']}")
                     print("Specifications:")
